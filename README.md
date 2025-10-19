@@ -1,2 +1,2 @@
 # nutrition_label
-A very simple nutrition lable from freecodecamp.org responsive web design course
+A very simple nutrition label from freecodecamp.org responsive web design course
